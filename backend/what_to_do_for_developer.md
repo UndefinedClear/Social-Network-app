@@ -1,0 +1,1 @@
+I need to set here to use TypeScript, because using Javascript on backend is prohibited and I writed It on my own
